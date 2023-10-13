@@ -1,0 +1,52 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+bin/main
+*.exe
+*.out
+*.app
+*.i386
+
+# Package files
+*.tar.*
+*.gz.*
+*.bz2
+*.tgz
+*.zip
+
+# Build directories
+build/
+dist/
+
+# IDE and editor files
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.orig
+*.kate-swp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+*.swp
+*~.nib
